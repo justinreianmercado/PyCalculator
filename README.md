@@ -1,3 +1,3 @@
 # PyCalculator
-## A Simple Calculator Program written in Python
-### This project was used to practice creating a GUI interface using TKinter
+## A Simple Calculator Program created using TKinter
+This project was to practice using grids to layout GUI elements
